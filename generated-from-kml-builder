@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document id="Sunday 18 Aug 2024 14:24:43 GMT" nsmap="{None: &amp;apos;http://www.opengis.net/kml/2.2&amp;apos;}">
 	<name>update point</name>
-	<description><![CDATA[<table width="200"></table>Build date: Sunday 18 Aug 2024 14:24:43 GMT</description>
+	<description><![CDATA[<table width="200"></table>Build date: Sunday 18 Aug 2024 14:24:43 GMT]]></description>
 	<StyleMap id="blue">
 		<Pair>
 			<key>normal</key>
